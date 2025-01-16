@@ -33,8 +33,7 @@ A Python-based web scraper that collects job listings from various job portals (
     
 ## Project Structure
 
-  app.py: The Flask application that serves the web page.
-  scraper.py: The script that scrapes job listings.
-  database.py: Handles SQLite database operations.
-  templates/: Contains HTML templates for the web app.
-  static/: Contains static files like CSS and JavaScript.
+- app.py: The Flask application that serves the web page.
+- scraper.py: The script that scrapes job listings.
+- database.py: Handles SQLite database operations.
+- templates/: Contains HTML templates for the web app.
